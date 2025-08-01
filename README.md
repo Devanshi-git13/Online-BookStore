@@ -1,5 +1,5 @@
 # 📚 Online Bookstore SQL Case Study
-
+![book shop](https://github.com/Devanshi-git13/Online-BookStore/blob/2b909532f7c237e85bfc2c92702601f36beaae14/bookslogo.png)
 ## 📝 Overview
 This case study uses structured SQL queries to analyze transactional and customer data from an online bookstore. It simulates real-world data problems and shows how to derive actionable business insights.
 
